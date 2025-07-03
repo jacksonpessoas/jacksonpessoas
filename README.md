@@ -1,7 +1,11 @@
 ## Bem-vindo(a) ao meu perfil  
 
-### Sobre Mim
-Sou um desenvolvedor em início de carreira, recém-formado em Análise e Desenvolvimento de Sistemas. Atualmente, estou me aprofundando em conteúdos práticos nas áreas de análise de dados e desenvolvimento web. Tenho uma paixão especial por Python e JavaScript, e estou entusiasmado com as oportunidades que essas tecnologias oferecem.
+💻 Sobre mim
+Sou desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, atuando em projetos práticos nas áreas de desenvolvimento web e análise de dados. Tenho experiência com Python, Flask, JavaScript e tecnologias modernas da web.
+
+Apaixonado por construir soluções eficientes e acessíveis, estou sempre buscando aprimorar minhas habilidades e contribuir com projetos que gerem impacto real. Aberto a colaborações e novos desafios!
+
+
 
 <div>
    <a href="https://github.com/jacksonpessoas">
